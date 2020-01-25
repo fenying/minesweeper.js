@@ -1,0 +1,6 @@
+/node_modules/
+/lib/
+/examples/
+/demo/*.js
+/demo/*.ts
+/demo/*.map
