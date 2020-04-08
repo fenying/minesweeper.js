@@ -1,6 +1,6 @@
 # MineSweeper.js
 
-This project is the pure JS/TS library of [MineSweeper](https://maiyunnet.github.io/MineSweeper/dist/test/).
+This project is the pure JS/TS library of [MineSweeper](https://maiyun.github.io/MineSweeper/dist/test/).
 
 > Yunbookf developed the UI part of it, and I developed the logic part.
 
